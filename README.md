@@ -31,3 +31,16 @@ yarn install
 ```sh
 npm run watch
 ```
+
+---
+
+## FAQ
+
+### 1. Parse error: syntax error, unexpected '?'
+
+Create a .php-version file and simply type in your php version to fix the error
+
+#### Example :
+```sh
+8.1.3
+```
