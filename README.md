@@ -24,7 +24,7 @@ symfony serve
 npm install
 ```
 
-### OR
+##### OR
 
 ```sh
 yarn install
