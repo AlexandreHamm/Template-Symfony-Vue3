@@ -44,3 +44,7 @@ Create a .php-version file and simply type in your php version to fix the error
 ```sh
 8.1.3
 ```
+
+### 2. Database
+
+Change the database path in the .env file, and don't forget to add the .env file to your .gitignore
