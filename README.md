@@ -48,4 +48,4 @@ npm run watch
 
 3. #### Aliases
 
-   ` @ ` refers to ` /{DIRECTORY}/assets ` folder
+   ` @ ` refers to ` /{DIRECTORY}/assets ` path
