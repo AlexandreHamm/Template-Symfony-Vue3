@@ -36,16 +36,16 @@ npm run watch
 
 ## FAQ
 
-### 1. `Parse error: syntax error, unexpected '?'`
+### 1. Parse error: syntax error, unexpected '?'
 
-Create a `.php-version` file and simply type in your php version to fix the error
+Create a ` .php-version ` file and simply type in your php version to fix the error
 
-#### Example : `8.1.3`
+#### Example : ` 8.1.3 `
 
 ### 2. Database
 
-Change the database path in the `.env` file, and don't forget to add the `.env` file to your .gitignore
+Change the database path in the ` .env ` file, and don't forget to add the ` .env ` file to your .gitignore
 
 ### 3. Aliases
 
-`@` refers to `/DIRECTORY/assets` folder
+` @ ` refers to ` /DIRECTORY/assets ` folder
