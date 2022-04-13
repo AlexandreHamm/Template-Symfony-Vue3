@@ -4,31 +4,31 @@ This is a template to get started on a new Symfony/Vue3 project, everything is a
 
 ## Symfony Setup
 
-```sh
+```symfony
 composer install
 ```
 
 ### Compile and Hot-Reload for Development
 
-```sh
+```symfony
 symfony serve
 ```
 
 ## Vue Setup
 
-```sh
+```vue
 npm install
 ```
 
 ### OR
 
-```sh
+```vue
 yarn install
 ```
 
 ### Compile and Minify for Production
 
-```sh
+```vue
 npm run watch
 ```
 
@@ -36,15 +36,16 @@ npm run watch
 
 ## FAQ
 
-### 1. Parse error: syntax error, unexpected '?'
+### 1. `Parse error: syntax error, unexpected '?'`
 
-Create a .php-version file and simply type in your php version to fix the error
+Create a `.php-version` file and simply type in your php version to fix the error
 
-#### Example :
-```sh
-8.1.3
-```
+#### Example : `8.1.3`
 
 ### 2. Database
 
-Change the database path in the .env file, and don't forget to add the .env file to your .gitignore
+Change the database path in the `.env` file, and don't forget to add the `.env` file to your .gitignore
+
+### 3. Aliases
+
+`@` refers to `/DIRECTORY/assets` folder
