@@ -34,7 +34,7 @@ npm run watch
 
 ---
 
-## FAQ
+## FYI
 
 1. #### Parse error: syntax error, unexpected '?'
 
