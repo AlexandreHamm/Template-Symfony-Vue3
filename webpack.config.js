@@ -22,6 +22,10 @@ Encore
      */
     .addEntry('app', './assets/app.js')
 
+    .addAliases({
+        '@': `${__dirname}/assets`,
+    })
+
     .enableVueLoader()
 
     // enables the Symfony UX Stimulus bridge (used in assets/bootstrap.js)
