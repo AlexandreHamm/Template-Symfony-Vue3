@@ -49,3 +49,7 @@ npm run watch
 3. #### Aliases
 
    ` @ ` refers to ` /{DIRECTORY}/assets ` path
+   
+4. #### PROD
+
+   command ` yarn run encore production ` to build
