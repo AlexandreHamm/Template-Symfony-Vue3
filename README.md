@@ -52,4 +52,4 @@ npm run watch
    
 4. #### PROD
 
-   command ` yarn run encore production ` to build
+   ` yarn run encore production ` to build
