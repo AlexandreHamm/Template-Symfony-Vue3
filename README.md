@@ -56,6 +56,9 @@ yarn run encore production
 
    ` @ ` refers to ` /{DIRECTORY}/assets ` path
    
-4. #### PROD
-
-   ` yarn run encore production ` to build
+   Can be changed or added in the webpack file using `.addAliases()`
+   
+   Example : 
+   ```.addAliases({
+        '@': `${__dirname}/assets`,
+    })```
