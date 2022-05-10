@@ -26,7 +26,7 @@ npm install
 yarn install
 ```
 
-### Watch
+### Compile and Hot-Reload for Development
 
 ```vue
 npm run watch
