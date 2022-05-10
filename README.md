@@ -26,10 +26,16 @@ npm install
 yarn install
 ```
 
-### Compile and Minify for Production
+### WATCH
 
 ```vue
 npm run watch
+```
+
+### Compile and Minify for Production
+
+```vue
+yarn run encore production
 ```
 
 ---
