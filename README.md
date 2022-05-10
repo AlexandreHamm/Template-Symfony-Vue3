@@ -26,7 +26,7 @@ npm install
 yarn install
 ```
 
-### WATCH
+### Watch
 
 ```vue
 npm run watch
