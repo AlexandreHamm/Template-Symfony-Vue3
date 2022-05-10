@@ -59,6 +59,8 @@ yarn run encore production
    Can be changed or added in the webpack file using `.addAliases()`
    
    Example : 
-   ```.addAliases({
+   ```
+   .addAliases({
         '@': `${__dirname}/assets`,
-    })```
+    })
+    ```
